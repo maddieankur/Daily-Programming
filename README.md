@@ -8,3 +8,4 @@ LeetCode :
    4. House Robber -: House Robber.py : https://github.com/maddieankur/Daily-Programming/blob/master/House%20Robber.py
    5. Remove Duplicates from Sorted Array : Remove Duplicates from Sorted Array.py : https://github.com/maddieankur/Daily-Programming/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.py
    6. Last Stone Weight : Last Stone Weight.py :https://github.com/maddieankur/Daily-Programming/blob/master/Last%20Stone%20Weight
+   7. Climbing Stairs : Climbing Stairs.py :https://github.com/maddieankur/Daily-Programming/blob/master/Climbing%20Stairs.py
