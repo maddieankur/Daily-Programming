@@ -10,4 +10,5 @@ LeetCode :
    6. Last Stone Weight : Last Stone Weight.py :https://github.com/maddieankur/Daily-Programming/blob/master/Last%20Stone%20Weight
    7. Climbing Stairs : Climbing Stairs.py :https://github.com/maddieankur/Daily-Programming/blob/master/Climbing%20Stairs.py
    8. Strange String : StrangeString.java : https://github.com/maddieankur/Daily-Programming/blob/master/StrangeString.java
+   9. Strange Integer : StrangeInteger.java : https://github.com/maddieankur/Daily-Programming/blob/master/StrangeString.java
  
