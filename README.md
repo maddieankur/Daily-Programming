@@ -15,4 +15,5 @@ LeetCode :
    8. Strange String : StrangeString.java : https://github.com/maddieankur/Daily-Programming/blob/master/StrangeString.java
    9. Strange Integer : StrangeInteger.java : https://github.com/maddieankur/Daily-Programming/blob/master/StrangeString.java
    10. Decimal to HexaDecimal : decimalToHexaDecimal.java : https://github.com/maddieankur/Daily-Programming/blob/master/Decimal%20to%20HexaDecimal
+   11. StrangeTree : 
  
