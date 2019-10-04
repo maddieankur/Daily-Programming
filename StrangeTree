@@ -1,0 +1,45 @@
+
+/*
+Question is Based Upon Complete Binary Tree Have all nodes continuos Increasing integer , Root value is 0
+
+There are comma Separated input Given : Input Have three value: left,right, Any
+
+Any can be itself,left and right
+
+Find all the sum of all the combination of Input: 
+
+
+suppose:
+
+
+            1
+      2           3
+  4     5      6     7
+8  9  10 11   12 13 14 15
+
+if Input is left,right,left :
+
+Ans is : 2+5+10 = 17
+
+if Input is left,Any,left:
+then 3 possible Case:
+  left,left,left = 2+4+8 = 14
+  left,right,left = 2+5+10 = 17
+  left,itself,left = 2+2+4 = 8
+  
+  Total = 14+17+8 = 39
+  
+  
+  
+  Can be Solved By recursion by Passing Parameter the current value , & Possible choice and next= current+1
+
+*/
+
+if current is left:
+  solve(currValue,left,next = current+1)
+if current is right:
+  solve(currValue,right,next = current+1)
+if current is Any:
+  solve(currValue,left,next) 
+  solve(currValue,right,next)
+  solve(currValue,current,next)
