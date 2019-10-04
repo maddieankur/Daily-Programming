@@ -1,0 +1,18 @@
+/*
+
+As The name suggest , You have given a integer decimal value , Need to print its Equivalent Hexadecimal Number
+
+*/
+
+
+import java.util.Scanner;
+import java.lang.Math;
+
+public class MyClass {
+    public static void main(String args[]) {
+      int a;
+      Scanner sc = new Scanner(System.in);
+      a = sc.nextInt();
+      System.out.println(Integer.toHexString(a)); 
+    }
+}
