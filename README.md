@@ -16,4 +16,8 @@ LeetCode :
    9. Strange Integer : StrangeInteger.java : https://github.com/maddieankur/Daily-Programming/blob/master/StrangeString.java
    10. Decimal to HexaDecimal : decimalToHexaDecimal.java : https://github.com/maddieankur/Daily-Programming/blob/master/Decimal%20to%20HexaDecimal
    11. StrangeTree : 
+   
+   ----------------------------------------
+   
+   12. Longest Repeating Character Replacement : Longest Repeating Character Replacement.py : https://github.com/maddieankur/Daily-Programming/blob/master/Longest%20Repeating%20Character%20Replacement.py
  
