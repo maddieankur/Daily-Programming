@@ -21,3 +21,4 @@ LeetCode :
    
    12. Longest Repeating Character Replacement : Longest Repeating Character Replacement.py : https://github.com/maddieankur/Daily-Programming/blob/master/Longest%20Repeating%20Character%20Replacement.py
    13. Max Consecutive Ones III : Max Consecutive Ones III.py :https://github.com/maddieankur/Daily-Programming/blob/master/Max%20Consecutive%20Ones%20III.py
+   14. Number of Islands : Number of Islands.py : https://github.com/maddieankur/Daily-Programming/blob/master/Number%20of%20Islands.py
