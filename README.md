@@ -27,4 +27,7 @@ LeetCode :
    17. Minimum Size Subarray Sum : Minimum Size Subarray Sum.py :https://github.com/maddieankur/Daily-Programming/blob/master/Minimum%20Size%20Subarray%20Sum.py
    
    18.Surrounded Regions :  	Surrounded Regions.py : https://github.com/maddieankur/Daily-Programming/blob/master/Surrounded%20Regions.py
+   
    19. Airplane Seat Assignment Probability :Airplane Seat Assignment Probability.py :https://github.com/maddieankur/Daily-Programming/blob/master/Airplane%20Seat%20Assignment%20Probability.py
+   
+   20. Palindromic Substrings : Palindromic Substrings.py : https://github.com/maddieankur/Daily-Programming/blob/master/Palindromic%20Substrings.py
